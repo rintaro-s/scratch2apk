@@ -4,7 +4,7 @@ scratchファイルからapkファイルにできるだけ簡単に変換でき�
 <br>
 インストールに必要なもの
 <br>
-cordova
-https://cordova.apache.org/
-node.js
+cordova          　
+https://cordova.apache.org/   <br>
+node.js<br>
 git
