@@ -1,7 +1,7 @@
 # scratch2apk
 scratch to apk .
-scratchファイルからapkファイルにできるだけ簡単に変換できるように作られたマクロです。<br>
-https://lorinta.xsrv.jp/2024/06/27/scratch%e3%81%a7%e4%bd%9c%e3%81%a3%e3%81%9f%e4%bd%9c%e5%93%81%e3%82%92%e3%80%81android%e3%82%a2%e3%83%97%e3%83%aaapk%e3%81%ab%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95-cordova%e3%81%ae%e3%82%a4/　　　　こちらで詳しく説明しています
+scratchファイルからapkファイルにできるだけ簡単に変換できるように作られたマクロです。下のサイトで詳しく説明しています<br>
+https://lorinta.xsrv.jp/2024/06/27/scratch%e3%81%a7%e4%bd%9c%e3%81%a3%e3%81%9f%e4%bd%9c%e5%93%81%e3%82%92%e3%80%81android%e3%82%a2%e3%83%97%e3%83%aaapk%e3%81%ab%e3%81%99%e3%82%8b%e6%96%b9%e6%b3%95-cordova%e3%81%ae%e3%82%a4/
 <br><br>
 <h2>使用するのに必要なもの</h2>
 <br>
